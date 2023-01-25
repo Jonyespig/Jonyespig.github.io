@@ -47,6 +47,10 @@ a{
 main{
     min-height: 60vh;
 }
+section{
+    width: 100%;
+}
+
 
 .parrafo{
     text-align: center;
